@@ -4,7 +4,7 @@ export class ProductService {
 
    /* baseUrl = "http://localhost:8080/api/products/"; */
 
-    baseUrl = "http://mongodb-rest-api.herokuapp.com/api/products/";
+    baseUrl = "https://mongodb-rest-api.herokuapp.com/api/products/";
 
     create(product) {
 
