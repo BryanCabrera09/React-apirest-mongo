@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-apirest-mongo/static/css/main.b3125ef8.css",
+    "main.js": "/React-apirest-mongo/static/js/main.c0abdc44.js",
+    "static/js/787.966262c2.chunk.js": "/React-apirest-mongo/static/js/787.966262c2.chunk.js",
+    "static/media/primeicons.svg": "/React-apirest-mongo/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/React-apirest-mongo/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/React-apirest-mongo/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/React-apirest-mongo/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/React-apirest-mongo/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/React-apirest-mongo/index.html",
+    "main.b3125ef8.css.map": "/React-apirest-mongo/static/css/main.b3125ef8.css.map",
+    "main.c0abdc44.js.map": "/React-apirest-mongo/static/js/main.c0abdc44.js.map",
+    "787.966262c2.chunk.js.map": "/React-apirest-mongo/static/js/787.966262c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3125ef8.css",
+    "static/js/main.c0abdc44.js"
+  ]
+}
